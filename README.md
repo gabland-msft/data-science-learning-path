@@ -70,9 +70,13 @@ Hi and welcome to the Data Science Learning Path. The intent of this repository 
 
 ### Topic - Exploratory Analyses
 #### [Python EDA](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - Required
+> Learn the basics of Exploratory Data Analysis (EDA) in Python with Pandas, Matplotlib and NumPy, such as sampling, feature engineering, correlation, etc.
 #### [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/spscientist/a-simple-tutorial-on-exploratory-data-analysis) - Required
+> Exploratory Data Analysis (EDA) helps to answer all these questions, ensuring the best outcomes for the project. It is an approach for summarizing, visualizing, and becoming intimately familiar with the important characteristics of a data set.
 #### [Pandas - Getting Started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) - Recommended
+> This is a guide to many pandas tutorials by the community, geared mainly for new users.
 #### [Pandas - User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html) - Optional
+> The User Guide covers all of pandas by topic area. Each of the subsections introduces a topic (such as “working with missing data”), and discusses how pandas approaches the problem, with many examples throughout.
 
 
 ### Topic - Visualization and Power BI
@@ -85,14 +89,19 @@ Hi and welcome to the Data Science Learning Path. The intent of this repository 
 #### [Power BI Reports](https://docs.microsoft.com/en-us/learn/paths/create-use-analytics-reports-power-bi/) - Optional
 > This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.
 #### [Seaborn Guide](https://seaborn.pydata.org/tutorial.html) - Recommended 
-#### [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html)
+> Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+#### [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) - Recommended
+> This page contains more in-depth guides for using Matplotlib. It is broken up into beginner, intermediate, and advanced sections, as well as sections covering specific topics.
 
 ## Area - Operationalization
 
 ### Topic - Azure Machine Learning Service SDK
 #### [SDK Examples](https://github.com/Azure/azureml-examples/tree/main/python-sdk) - Required
+> A Git repository of: (1) self-contained directories of experimental tutorials; (2) interactive Jupyter notebooks for iterative ML development; (3) self-contained directories of tutorials; (4) self-contained directories of job to be run, organized by scenario then tool then project
 #### [Notebook Examples](https://github.com/Azure/MachineLearningNotebooks/) - Required
+> A Git repository of Python notebooks with many examples of how to use the Azure Machine Learning SDK.
 #### [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) - Recommended
+> Learn how to train and deploy models and manage the ML lifecycle (MLOps) with Azure Machine Learning. Tutorials, code examples, API references, and more.
 
 ### Topic - ML Flow
 #### [Examples](https://github.com/amesar/mlflow-examples) - Python Examples Required
