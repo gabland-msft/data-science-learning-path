@@ -69,6 +69,12 @@ Hi and welcome to the Data Science Learning Path. The intent of this repository 
 #### [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Optional
 
 ### Topic - Exploratory Analyses
+#### [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) - Recommended
+> Learn statistics and probability for free—everything you'd want to know about descriptive and inferential statistics. Full curriculum of exercises and videos.
+#### [Math](https://www.khanacademy.org/math) - Recommended
+> Khanacademy math for reference on many topics. Full curriculum of exercises and videos.
+#### [Data Science From Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/) - Required
+> To really learn data science, you should not only master the tools—data science libraries, frameworks, modules, and toolkits—but also understand the ideas and principles underlying them. Updated for Python 3.6, this second edition of Data Science from Scratch shows you how these tools and algorithms work by implementing them from scratch.
 #### [Python EDA](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python) - Required
 > Learn the basics of Exploratory Data Analysis (EDA) in Python with Pandas, Matplotlib and NumPy, such as sampling, feature engineering, correlation, etc.
 #### [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/spscientist/a-simple-tutorial-on-exploratory-data-analysis) - Required
